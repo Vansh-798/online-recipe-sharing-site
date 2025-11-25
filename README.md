@@ -74,10 +74,6 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For questions or support, open an issue, or contact [@Vansh-798](https://github.com/Vansh-798).
